@@ -27,7 +27,6 @@ The project files are provided in a 7z compressed format. Use appropriate softwa
 ### Install Required Libraries
 The project requires Python and several libraries for data manipulation and visualization. Use the following command to install the necessary libraries:
 
-```bash
 pip install pandas matplotlib seaborn
 
 ## Run the Analysis

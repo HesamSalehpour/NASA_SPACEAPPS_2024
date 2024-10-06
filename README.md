@@ -1,4 +1,4 @@
-# NASA_SPACEAPPS_2024
+# AI for Equitable Climate
 NASA SPACE APPS CHALLENGE 2024
 # Gender Inequality Analysis
 
